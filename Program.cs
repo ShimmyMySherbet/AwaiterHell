@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AwaiterHell
 {
     /// <summary>
-    /// This is fucking stupid nd I love it
+    /// This is fucking stupid and I love it
     /// DNSpy has no clue what is going on when I try to decompile this
     /// And Visual Studio is giving me about 10 errors per second while I have this project open
     /// </summary>
